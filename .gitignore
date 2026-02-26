@@ -1,0 +1,39 @@
+# Android
+*.apk
+*.aab
+*.hprof
+output-metadata.json
+
+# Build outputs
+build/
+app/build/
+/build
+/captures
+captures/
+
+# Gradle
+.gradle/
+.gradle
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Native build
+.externalNativeBuild/
+.externalNativeBuild
+.cxx/
+.cxx
+
+# Local config & secrets
+local.properties
+google-services.json
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+*.log
