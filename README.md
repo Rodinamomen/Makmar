@@ -52,3 +52,4 @@ A modern Android personal finance app built with Jetpack Compose. Track your inc
 | Room | Local database (offline-first) |
 | Koin | Dependency injection |
 | Navigation 3 | In-app navigation |
+| Material 3 Expressive | UI components
