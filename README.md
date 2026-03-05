@@ -1,6 +1,6 @@
 #  Makamer — Personal Finance Tracker
 
-A modern Android personal finance app built with Jetpack Compose. Track your income and expenses, manage your cards, and stay on top of your financial life — all with offline-first support.
+A modern Android personal finance app built with Jetpack Compose. Track your income and expenses, manage your cards, and stay on top of your financial life, all with offline-first support.
 
 ---
 
